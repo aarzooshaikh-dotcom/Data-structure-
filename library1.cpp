@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 int id1,id2,id3;
-string title1,title2,title3
+string title1,title2,title3;
 
 cout<<"Enter Book 1 ID: ";
 cin>>id1;
