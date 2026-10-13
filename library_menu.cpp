@@ -39,7 +39,7 @@ int main()
       }
     }
   }
-  cout<<"\n Book IDs aftersorting:\n";
+  cout<<"\n Book IDs after sorting:\n";
   for(int i=0;i<5;i++)
   {
     cout<<Book[i]<<" ";
