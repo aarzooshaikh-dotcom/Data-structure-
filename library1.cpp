@@ -14,18 +14,18 @@ int main() {
   cin.ignore();
   cout<<"Enter Book 2 Title: ";
   getline(cin,title2);
-  cout<<"Enter Book 3 ID; ";
+  cout<<"Enter Book 3 ID: ";
   cin>>id3;
   cin.ignore();
   cout<<"Enter Book 3 Title: ";
   getline(cin,title3);
   cout<<"\n ====LIBRARY BOOK====";
-  cout<<"\n Enter id1"<<id1;
-  cout<<"\n Enter title1"<<title1;
-  cout<<"\n Enter id2"<<id2;
-  cout<<"\n Enter title2"<<title2;
-  cout<<"\n Enter id3"<<id3;
-  cout<<"\n Enter title3"<<title3;
+  cout << "\n Enter id1" << id1;
+  cout << "\n Enter title1" << title1;
+  cout << "\n Enter id2" << id2;
+  cout << "\n Enter title2" << title2;
+  cout << "\n Enter id3" << id3;
+  cout << "\n Enter title3" << title3;
   return 0;
 }
 
